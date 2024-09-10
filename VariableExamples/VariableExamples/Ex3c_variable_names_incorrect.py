@@ -4,11 +4,11 @@
 p = "Python"       # this is ok, but not descriptive, and therefore not recommended
 print(p)
 
-class = "Python"    # a variable name cannot contain keywords
-print(class)
+class_123 = "Python"    # a variable name cannot contain keywords
+print(class_123)
 
-my course = "Python"  # a variable name cannot contain spaces
-print(my course)
+mycourse = "Python"  # a variable name cannot contain spaces
+print(mycourse)
 
-123_course = "Python"  # a variable name cannot start with a number
-print(123_course)
+course_123 = "Python"  # a variable name cannot start with a number
+print(course_123)
